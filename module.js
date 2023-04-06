@@ -1,2 +1,3 @@
-function resp (a){
-return a}
+function resp(a) {
+    return a
+}
